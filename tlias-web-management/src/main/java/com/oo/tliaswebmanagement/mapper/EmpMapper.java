@@ -1,4 +1,4 @@
-package com.itheima.mapper;
+package com.oo.tliaswebmanagement.mapper;
 
 import org.apache.ibatis.annotations.Mapper;
 

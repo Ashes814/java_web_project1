@@ -1,4 +1,4 @@
-package com.itheima.controller;
+package com.oo.tliaswebmanagement.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
